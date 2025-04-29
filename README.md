@@ -1,2 +1,2 @@
 # extension-chrome
-send message  content to background  or background  to content
+send message from  (content.js to background.js)  or (background.js  to content.js)
